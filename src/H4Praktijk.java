@@ -13,7 +13,7 @@ public class H4Praktijk extends Applet {
         //Lijn
         g.setColor(Color.black);
         g.drawLine(5, 5, 210, 5);
-        g.drawString("Lijn", 30, 20);
+        g.drawString("Lijn", 100, 20);
 
         //Rechthoek
         g.drawRect(5, 40, 205, 150);
@@ -40,9 +40,13 @@ public class H4Praktijk extends Applet {
         //Gevulde ovaal
         g.setColor(Color.magenta);
         g.fillOval(220, 225, 205, 150);
+        g.setColor(Color.black);
+        g.drawString("Gevulde ovaal", 280, 400);
 
         //Cirkel
-        g.drawOval(475, 225,100, 100);
+        g.drawOval(540, 250,100, 100);
+        g.setColor(Color.black);
+        g.drawString("Cirkel", 575, 375);
 
     }
 }
