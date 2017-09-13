@@ -8,7 +8,7 @@ public class H8Punt2 extends Applet {
     Button Button3;
     Button Button4;
     Button Button5;
-    int a, b, c, d, e;
+    int a, a2, b, b2, c, c2, d, d2, e;
 
 
     public void init (){
