@@ -3,7 +3,7 @@ import java.awt.*;
 
 public class H6Praktijk extends Applet {
     double a, b, c, d, e, f, h, i, l;
-    
+
     public void init() {
         a = 5.9;
         b = 6.3;
