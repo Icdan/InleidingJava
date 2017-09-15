@@ -7,8 +7,7 @@ public class H8Punt2 extends Applet {
     Button Button2;
     Button Button3;
     Button Button4;
-    Button Button5;
-    int a, a2, b, b2, c, c2, d, d2, e;
+    int a, b, c, d, e;
 
 
     public void init (){
@@ -32,16 +31,13 @@ public class H8Punt2 extends Applet {
             Button4.addActionListener(B4l);
             add(Button4);
 
-        Button5 = new Button("Totaal");
-            Button5Listener B5l = new Button5Listener();
-            Button5.addActionListener(B5l);
-            add(Button5);
-
         a = 0;
         b = 0;
         c = 0;
         d = 0;
-        e = a + b + c + d;
+
+
+
 
     }
 
@@ -50,13 +46,15 @@ public class H8Punt2 extends Applet {
         g.drawString("Aantal vrouwen: " + b, 20, 65);
         g.drawString("Aantal potentiele mannelijke leerlingen: " + c, 20, 80);
         g.drawString("Aantal potentiele vrouwelijke leerlinen: " + d, 20, 95);
-        g.drawString("Totaal: " + e, 20, 110);
+        g.drawString("Totaal: " + e, 50, 150);
+
 
     }
 
     class Button1Listener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
+        public void actionPerformed(ActionEvent j) {
             a++;
+            e+=1;
             repaint();
         }
     }
@@ -64,27 +62,25 @@ public class H8Punt2 extends Applet {
     class Button2Listener implements ActionListener {
         public void actionPerformed(ActionEvent f) {
             b++;
+            e+=1;
             repaint();
         }
     }
 
     class Button3Listener implements ActionListener {
         public void actionPerformed(ActionEvent h) {
+            a++;
             c++;
+            e+=2;
             repaint();
         }
     }
 
     class Button4Listener implements ActionListener {
         public void actionPerformed(ActionEvent i) {
+            b++;
             d++;
-            repaint();
-        }
-    }
-
-    class Button5Listener implements ActionListener {
-        public void actionPerformed(ActionEvent j) {
-
+            e+=2;
             repaint();
         }
     }
