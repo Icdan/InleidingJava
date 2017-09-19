@@ -7,11 +7,15 @@ public class H10Punt2 extends Applet {
     double getal1, getal2;
     Button Button;
     String invoerString1, invoerString2, uitkomst1, uitkomst2;
+    Label label;
 
     public void init() {
 
         uitkomst1 = "";
         uitkomst2 = "";
+
+        label = new Label("Voer getallen in en klik op de knop om te laten zien welk getal het hoogst en welk getal het laagst is");
+        add(label);
 
 
         field1 = new TextField("", 20);
@@ -22,7 +26,7 @@ public class H10Punt2 extends Applet {
         field2.addActionListener(new Field2Listener());
         add(field2);
 
-        Button = new Button("Klik hier om te zien welk getal het hoogst is");
+        Button = new Button("Ok");
         Button.addActionListener(new ButtonListener());
         add(Button);
 
