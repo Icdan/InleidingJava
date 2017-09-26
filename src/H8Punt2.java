@@ -11,25 +11,25 @@ public class H8Punt2 extends Applet {
 
 
     public void init (){
-       Button1 = new Button("M");
-            Button1Listener B1l = new Button1Listener();
-            Button1.addActionListener(B1l);
-            add(Button1);
+        Button1 = new Button("M");
+        Button1Listener B1l = new Button1Listener();
+        Button1.addActionListener(B1l);
+        add(Button1);
 
         Button2 = new Button("V");
-            Button2Listener B2l = new Button2Listener();
-            Button2.addActionListener(B2l);
-            add(Button2);
+        Button2Listener B2l = new Button2Listener();
+        Button2.addActionListener(B2l);
+        add(Button2);
 
         Button3 = new Button("PML");
-            Button3Listener B3l = new Button3Listener();
-            Button3.addActionListener(B3l);
-            add(Button3);
+        Button3Listener B3l = new Button3Listener();
+        Button3.addActionListener(B3l);
+        add(Button3);
 
         Button4 = new Button("PVL");
-            Button4Listener B4l = new Button4Listener();
-            Button4.addActionListener(B4l);
-            add(Button4);
+        Button4Listener B4l = new Button4Listener();
+        Button4.addActionListener(B4l);
+        add(Button4);
 
         a = 0;
         b = 0;
