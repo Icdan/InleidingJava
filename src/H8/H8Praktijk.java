@@ -1,3 +1,5 @@
+package H8;
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -41,10 +43,6 @@ public class H8Praktijk extends Applet {
 
     }
 
-    public void paint(Graphics g){
-
-        }
-
     class ButtonAListener implements ActionListener {
         public void actionPerformed(ActionEvent w) {
             String invoerString1 = Number1.getText();
@@ -54,7 +52,7 @@ public class H8Praktijk extends Applet {
             uitkomst = invoer1 + invoer2;
             Number1.setText("" + uitkomst);
             Number2.setText("");
-            repaint();
+
 
         }
     }
@@ -68,7 +66,7 @@ public class H8Praktijk extends Applet {
             uitkomst = invoer1 - invoer2;
             Number1.setText("" + uitkomst);
             Number2.setText("");
-            repaint();
+
 
         }
     }
@@ -82,7 +80,7 @@ public class H8Praktijk extends Applet {
             uitkomst = invoer1 * invoer2;
             Number1.setText("" + uitkomst);
             Number2.setText("");
-            repaint();
+
 
         }
     }
@@ -96,7 +94,7 @@ public class H8Praktijk extends Applet {
             uitkomst = invoer1 / invoer2;
             Number1.setText("" + uitkomst);
             Number2.setText("");
-            repaint();
+
 
         }
     }

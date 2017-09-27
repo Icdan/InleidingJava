@@ -1,3 +1,5 @@
+package H10;
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -5,7 +7,7 @@ import java.awt.event.*;
 public class H10Punt1 extends Applet {
     TextField field1, field2;
     double getal1, getal2;
-    Button Button;
+    Button button;
     String invoerString1, invoerString2, uitkomst;
 
     public void init() {
@@ -21,9 +23,9 @@ public class H10Punt1 extends Applet {
         field2.addActionListener(new Field2Listener());
         add(field2);
 
-        Button = new Button("Klik hier om te zien welk getal het hoogst is");
-        Button.addActionListener(new ButtonListener());
-        add(Button);
+        button = new Button("Klik hier om te zien welk getal het hoogst is");
+        button.addActionListener(new ButtonListener());
+        add(button);
 
 
     }

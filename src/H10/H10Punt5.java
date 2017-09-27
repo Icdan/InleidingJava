@@ -1,3 +1,5 @@
+package H10;
+
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -7,15 +9,15 @@ public class H10Punt5 extends Applet {
     TextField field1, field2, field3;
     double cijfer1, cijfer2, cijfer3, cijfer4;
     String resultaat1, resultaat2, resultaat3, uitkomst;
-    Button ButtonOk;
+    Button buttonOk;
 
     public void init() {
         uitkomst = "";
 
-        ButtonOk = new Button("Ok");
+        buttonOk = new Button("Ok");
         FieldInvoerListener FIV = new FieldInvoerListener();
-        ButtonOk.addActionListener(FIV);
-        add(ButtonOk);
+        buttonOk.addActionListener(FIV);
+        add(buttonOk);
 
         field1 = new TextField("", 5);
         field1.addActionListener(new FieldInvoerListener());

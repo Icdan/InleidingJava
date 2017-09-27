@@ -1,4 +1,4 @@
-/*
+package H2;/*
 
 @(#)Show.java 1.0 03/02/26
 
@@ -15,16 +15,18 @@ import java.awt.*;
 import java.applet.*;
 
 //een klasse met de naam Show van het type Applet
-public class H21 extends Applet {
+public class H22 extends Applet {
 
     //een (lege) methode die de Applet initialiseert
     public void init() {
-        setBackground(Color.blue);
+        setBackground(Color.white);
     }
     //een methode die de inhoud van het scherm tekent
     public void paint(Graphics g) {
-        g.setColor(Color.yellow);
-        g.drawString("Liam Jansen", 50, 60 );
+        g.setColor(Color.blue);
+        g.drawString("Liam", 55, 60);
+        g.setColor(Color.red);
+        g.drawString("Jansen", 50, 70);
     }
 
 }

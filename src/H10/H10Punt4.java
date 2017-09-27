@@ -1,32 +1,42 @@
+package H10;
+
 import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
 
 
-public class H10Punt3 extends Applet {
-    TextField tekstvak;
-    Label label;
-    String s, tekst;
-    int dag;
+public class H10Punt4 extends Applet {
+    TextField tekstvak, tekstvak2;
+    Label label, labeljaar;
+    String getTekstString1, getTekstString2, tekst, tekst2;
+    int dag, jaartal;
 
     public void init() {
         tekstvak = new TextField("", 20);
         label = new Label("Type het maandnummer en druk op enter");
-        tekstvak.addActionListener( new TekstvakListener() );
+        tekstvak.addActionListener( new Tekstvak1Listener() );
         tekst = "";
         add(label);
         add(tekstvak);
+
+        tekstvak2 = new TextField("", 10);
+        labeljaar = new Label("Type een jaartal om te zien of het een schrikkeljaar is");
+        tekstvak2.addActionListener( new Tekstvak2Listener());
+        tekst2 = "";
+        add(labeljaar);
+        add(tekstvak2);
     }
 
     public void paint(Graphics g) {
-        g.drawString(tekst, 50, 80 );
+        g.drawString(tekst, 50, 130 );
+        g.drawString(tekst2, 50, 150);
     }
 
-    class TekstvakListener implements ActionListener {
+    class Tekstvak1Listener implements ActionListener {
         public void actionPerformed(ActionEvent e) {
-            s = tekstvak.getText();
-            dag = Integer.parseInt( s);
-            switch(dag) {
+            getTekstString1 = tekstvak.getText();
+            dag = Integer.parseInt(getTekstString1);
+            switch (dag) {
                 case 1:
                     tekst = "De eerste maand is januari. Januari heeft 31 dagen.";
                     break;
@@ -66,8 +76,27 @@ public class H10Punt3 extends Applet {
                 default:
                     tekst = "U hebt een verkeerd nummer ingetikt ..!";
                     break;
+            } repaint();
+
+        }
+
+    }
+
+    class Tekstvak2Listener implements ActionListener {
+        public void actionPerformed(ActionEvent e) {
+            getTekstString2 = tekstvak2.getText();
+            jaartal = Integer.parseInt(getTekstString2);
+            if ( (jaartal % 4 == 0 && !(jaartal % 100 == 0)) ||
+                    jaartal % 400 == 0 ) {
+                tekst2 = ""+ jaartal + " is een schrikkeljaar. Februari heeft 29 dagen.";
+            }
+            else {
+                tekst2 = ""+ jaartal + " is geen schrikkeljaar. Februari heeft 28 dagen.";
             }
             repaint();
         }
     }
+
+
+
 }

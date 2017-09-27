@@ -1,3 +1,5 @@
+package H4;
+
 import java.applet.*;
 import java.awt.*;
 

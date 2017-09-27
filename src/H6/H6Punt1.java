@@ -1,3 +1,5 @@
+package H6;
+
 import java.applet.*;
 import java.awt.*;
 
