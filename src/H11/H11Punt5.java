@@ -5,11 +5,6 @@ import java.applet.*;
 
 public class H11Punt5 extends Applet {
 
-
-        public void init(){
-
-        }
-
         public void paint(Graphics g){
             int y = 10;
             int x = 10;
