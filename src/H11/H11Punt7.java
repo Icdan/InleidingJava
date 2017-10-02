@@ -12,10 +12,11 @@ public class H11Punt7 extends Applet {
         int enlarge = 10;
 
 
+
         for(teller = 0; teller < 50; teller++){
             x-=5;
             y-=5;
-            enlarge += 10;
+            enlarge+=10;
             g.drawOval(x, y, enlarge, enlarge);
         }
     }
