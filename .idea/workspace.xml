@@ -1,36 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee0b126a-335f-4257-afd1-3ffbb364b2bb" name="Default" comment="H11.5, cleanup">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/H11/H11Punt5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H10Praktijk.java" afterPath="$PROJECT_DIR$/src/H10/H10Praktijk.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H10Punt1.java" afterPath="$PROJECT_DIR$/src/H10/H10Punt1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H10Punt2.java" afterPath="$PROJECT_DIR$/src/H10/H10Punt2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H10Punt3.java" afterPath="$PROJECT_DIR$/src/H10/H10Punt3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H10Punt4.java" afterPath="$PROJECT_DIR$/src/H10/H10Punt4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H10Punt5.java" afterPath="$PROJECT_DIR$/src/H10/H10Punt5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H11Punt1.java" afterPath="$PROJECT_DIR$/src/H11/H11Punt1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H11Punt2.java" afterPath="$PROJECT_DIR$/src/H11/H11Punt2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H11Punt3.java" afterPath="$PROJECT_DIR$/src/H11/H11Punt3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H11Punt4.java" afterPath="$PROJECT_DIR$/src/H11/H11Punt4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H21.java" afterPath="$PROJECT_DIR$/src/H2/H21.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H22.java" afterPath="$PROJECT_DIR$/src/H2/H22.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H41.java" afterPath="$PROJECT_DIR$/src/H4/H41.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H4Praktijk.java" afterPath="$PROJECT_DIR$/src/H4/H4Praktijk.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H4Punt4.java" afterPath="$PROJECT_DIR$/src/H4/H4Punt4.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H4Punt5.java" afterPath="$PROJECT_DIR$/src/H4/H4Punt5.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H4Punt6.java" afterPath="$PROJECT_DIR$/src/H4/H4Punt6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H4Punt7.java" afterPath="$PROJECT_DIR$/src/H4/H4Punt7.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H6Praktijk.java" afterPath="$PROJECT_DIR$/src/H6/H6Praktijk.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H6Punt1.java" afterPath="$PROJECT_DIR$/src/H6/H6Punt1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H6Punt2.java" afterPath="$PROJECT_DIR$/src/H6/H6Punt2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H6Punt3.java" afterPath="$PROJECT_DIR$/src/H6/H6Punt3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H8Praktijk.java" afterPath="$PROJECT_DIR$/src/H8/H8Praktijk.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H8Punt1.java" afterPath="$PROJECT_DIR$/src/H8/H8Punt1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H8Punt2.java" afterPath="$PROJECT_DIR$/src/H8/H8Punt2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/H8Punt3.java" afterPath="$PROJECT_DIR$/src/H8/H8Punt3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Hoofdstuk4Punt2.java" afterPath="$PROJECT_DIR$/src/H4/Hoofdstuk4Punt2.java" />
+    <list default="true" id="ee0b126a-335f-4257-afd1-3ffbb364b2bb" name="Default" comment="H11Praktijk1 fout">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/H11/H11Praktijk1.java" afterPath="$PROJECT_DIR$/src/H11/H11Praktijk1.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,24 +15,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="H41.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/H4/H41.java">
+      <file leaf-file-name="H11Punt9.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/H11/H11Punt9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H11Praktijk1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/H11/H11Praktijk1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H10Punt3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/H10/H10Punt3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1255">
+              <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="H11Punt5.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/H11/H11Punt5.java">
+      <file leaf-file-name="H11Punt1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/H11/H11Punt1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="150">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="H10Punt2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/H10/H10Punt2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/HelloWorld.java" />
         <option value="$PROJECT_DIR$/src/H21.java" />
         <option value="$PROJECT_DIR$/src/H22.java" />
         <option value="$PROJECT_DIR$/src/Show.java" />
@@ -122,11 +126,20 @@
         <option value="$PROJECT_DIR$/src/H11Punt5.java" />
         <option value="$PROJECT_DIR$/src/H4/H4Punt7.java" />
         <option value="$PROJECT_DIR$/src/H6/H6Punt3.java" />
-        <option value="$PROJECT_DIR$/src/H8/H8Punt3.java" />
         <option value="$PROJECT_DIR$/src/H10/H10Punt5.java" />
-        <option value="$PROJECT_DIR$/src/H11/H11Punt5.java" />
         <option value="$PROJECT_DIR$/src/H4/Hoofdstuk4Punt2.java" />
         <option value="$PROJECT_DIR$/src/H2/H22.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt3.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt2.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt1.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt5.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt6.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt7.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt8.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Punt9.java" />
+        <option value="$PROJECT_DIR$/src/H8/H8Punt3.java" />
+        <option value="$PROJECT_DIR$/src/H11/test.java" />
+        <option value="$PROJECT_DIR$/src/H11/H11Praktijk1.java" />
       </list>
     </option>
   </component>
@@ -157,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -174,15 +188,26 @@
               <item name="InleidingJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="InleidingJava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="H2" type="462c0819:PsiDirectoryNode" />
+              <item name="H8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InleidingJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InleidingJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="H10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InleidingJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="InleidingJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="H11" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,10 +228,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Applet.H21">
-    <configuration name="H11Punt4" type="Applet" factoryName="Applet" temporary="true">
+  <component name="RunManager" selected="Applet.test">
+    <configuration name="H10Punt2" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="H11.H11Punt4" />
+      <option name="MAIN_CLASS_NAME" value="H10.H10Punt2" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -214,9 +239,9 @@
         <option name="moduleName" value="InleidingJava" />
       </module>
     </configuration>
-    <configuration name="H11Punt5" type="Applet" factoryName="Applet" temporary="true">
+    <configuration name="H11Praktijk1" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="H11.H11Punt5" />
+      <option name="MAIN_CLASS_NAME" value="H11.H11Praktijk1" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -224,9 +249,9 @@
         <option name="moduleName" value="InleidingJava" />
       </module>
     </configuration>
-    <configuration name="H21" type="Applet" factoryName="Applet" temporary="true">
+    <configuration name="H11Punt8" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="H2.H21" />
+      <option name="MAIN_CLASS_NAME" value="H11.H11Punt8" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -234,9 +259,9 @@
         <option name="moduleName" value="InleidingJava" />
       </module>
     </configuration>
-    <configuration name="H22" type="Applet" factoryName="Applet" temporary="true">
+    <configuration name="H11Punt9" type="Applet" factoryName="Applet" temporary="true">
       <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="H2.H22" />
+      <option name="MAIN_CLASS_NAME" value="H11.H11Punt9" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -247,16 +272,6 @@
     <configuration name="H41" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="MAIN_CLASS_NAME" value="H4.H41" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <module name="InleidingJava">
-        <option name="moduleName" value="InleidingJava" />
-      </module>
-    </configuration>
-    <configuration name="H4Praktijk" type="Applet" factoryName="Applet" temporary="true">
-      <option name="HTML_USED" value="false" />
-      <option name="MAIN_CLASS_NAME" value="H4.H4Praktijk" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
@@ -345,21 +360,31 @@
       <properties />
       <listeners />
     </configuration>
+    <configuration name="test" type="Applet" factoryName="Applet" temporary="true">
+      <option name="HTML_USED" value="false" />
+      <option name="MAIN_CLASS_NAME" value="H11.test" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module name="InleidingJava">
+        <option name="moduleName" value="InleidingJava" />
+      </module>
+    </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Applet.H41" />
-      <item index="1" class="java.lang.String" itemvalue="Applet.H11Punt4" />
-      <item index="2" class="java.lang.String" itemvalue="Applet.H11Punt5" />
-      <item index="3" class="java.lang.String" itemvalue="Applet.H4Praktijk" />
-      <item index="4" class="java.lang.String" itemvalue="Applet.H22" />
-      <item index="5" class="java.lang.String" itemvalue="Applet.H21" />
+      <item index="1" class="java.lang.String" itemvalue="Applet.H11Punt8" />
+      <item index="2" class="java.lang.String" itemvalue="Applet.H11Punt9" />
+      <item index="3" class="java.lang.String" itemvalue="Applet.H10Punt2" />
+      <item index="4" class="java.lang.String" itemvalue="Applet.H11Praktijk1" />
+      <item index="5" class="java.lang.String" itemvalue="Applet.test" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Applet.H21" />
-        <item index="1" class="java.lang.String" itemvalue="Applet.H22" />
-        <item index="2" class="java.lang.String" itemvalue="Applet.H4Praktijk" />
-        <item index="3" class="java.lang.String" itemvalue="Applet.H11Punt5" />
-        <item index="4" class="java.lang.String" itemvalue="Applet.H11Punt4" />
+        <item index="0" class="java.lang.String" itemvalue="Applet.test" />
+        <item index="1" class="java.lang.String" itemvalue="Applet.H11Praktijk1" />
+        <item index="2" class="java.lang.String" itemvalue="Applet.H11Punt9" />
+        <item index="3" class="java.lang.String" itemvalue="Applet.H10Punt2" />
+        <item index="4" class="java.lang.String" itemvalue="Applet.H11Punt8" />
       </list>
     </recent_temporary>
   </component>
@@ -394,7 +419,13 @@
       <workItem from="1505731635481" duration="12582000" />
       <workItem from="1505989822849" duration="7474000" />
       <workItem from="1506408127180" duration="11124000" />
-      <workItem from="1506496023716" duration="258000" />
+      <workItem from="1506496023716" duration="339000" />
+      <workItem from="1506926918687" duration="63000" />
+      <workItem from="1506929731102" duration="7972000" />
+      <workItem from="1506941346691" duration="681000" />
+      <workItem from="1506942460369" duration="5395000" />
+      <workItem from="1507013629505" duration="3797000" />
+      <workItem from="1507026912994" duration="5371000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1504095108834</created>
@@ -634,11 +665,53 @@
       <option name="project" value="LOCAL" />
       <updated>1506427636182</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="H11.5, cleanup">
+      <created>1506496375548</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1506496375549</updated>
+    </task>
+    <task id="LOCAL-00036" summary="H11.6, cleanup">
+      <created>1506932132070</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1506932132071</updated>
+    </task>
+    <task id="LOCAL-00037" summary="H11.7">
+      <created>1506932241277</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1506932241277</updated>
+    </task>
+    <task id="LOCAL-00038" summary="H11.8">
+      <created>1506932574922</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1506932574922</updated>
+    </task>
+    <task id="LOCAL-00039" summary="H11.9">
+      <created>1506943872687</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1506943872687</updated>
+    </task>
+    <task id="LOCAL-00040" summary="H11Praktijk1 fout">
+      <created>1507031144480</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1507031144480</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="109273000" />
+    <option name="totallyTimeSpent" value="132633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
@@ -657,7 +730,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295711" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18072917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1296875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -709,11 +782,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="H4 Praktijk done" />
-    <MESSAGE value="Finished 6.1" />
-    <MESSAGE value="Finished 6.2" />
-    <MESSAGE value="Finished 6.3" />
-    <MESSAGE value="&quot;Het gemiddelde is: Infinity&quot;" />
     <MESSAGE value="H6 Praktijk done" />
     <MESSAGE value="Partial 8.1" />
     <MESSAGE value="Finished 8.1" />
@@ -734,7 +802,12 @@
     <MESSAGE value="H11Punt3" />
     <MESSAGE value="H11Punt4" />
     <MESSAGE value="H11.5, cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="H11.5, cleanup" />
+    <MESSAGE value="H11.6, cleanup" />
+    <MESSAGE value="H11.7" />
+    <MESSAGE value="H11.8" />
+    <MESSAGE value="H11.9" />
+    <MESSAGE value="H11Praktijk1 fout" />
+    <option name="LAST_COMMIT_MESSAGE" value="H11Praktijk1 fout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -743,42 +816,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/H6/H6Punt1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Knop.java" />
     <entry file="file://$PROJECT_DIR$/src/H8/H8Punt1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -945,99 +982,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/H10/H10Praktijk.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1048,22 +996,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/H4/H41.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/H2/H22.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="385">
           <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="e#328#329#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1071,14 +1007,166 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H4/H41.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="true" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H8/H8Punt3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="35" column="62" lean-forward="false" selection-start-line="35" selection-start-column="62" selection-end-line="35" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="14" column="34" lean-forward="true" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/H11/H11Punt5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="14" column="23" lean-forward="false" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+        <state relative-caret-position="300">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="17" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="12" column="16" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" column="43" lean-forward="false" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Punt1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-575">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1170">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H10/H10Punt3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1255">
+          <caret line="70" column="13" lean-forward="true" selection-start-line="70" selection-start-column="13" selection-end-line="70" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="50" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/H11/H11Praktijk1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
