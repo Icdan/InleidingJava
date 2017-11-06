@@ -12,12 +12,12 @@ public class H12Punt3 extends Applet {
     Button button;
 
 
-    public void init(){
-        setSize(500,500);
+    public void init() {
+        setSize(500, 500);
         getal = new int[5];
 
         field = new TextField[5];
-        for (int teller = 0; teller < field.length; teller++){
+        for (int teller = 0; teller < field.length; teller++) {
             field[teller] = new TextField("", 5);
             add(field[teller]);
         }
@@ -26,13 +26,10 @@ public class H12Punt3 extends Applet {
         buttonListener Ok = new buttonListener();
         button.addActionListener(Ok);
         add(button);
-
-
     }
-    
 
     public class buttonListener implements ActionListener {
-        public void actionPerformed (ActionEvent e) {
+        public void actionPerformed(ActionEvent e) {
 
             for (int teller = 0; teller < field.length; teller++) {
                 String s = field[teller].getText();
