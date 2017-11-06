@@ -29,10 +29,7 @@ public class H12Punt3 extends Applet {
 
 
     }
-
-    public void paint(Graphics g){
-
-    }
+    
 
     public class buttonListener implements ActionListener {
         public void actionPerformed (ActionEvent e) {
