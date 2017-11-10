@@ -9,7 +9,7 @@ public class H12Punt6 extends Applet {
     int[] nummers = {0, 0, 0, 1, 1, 1, 2, 2, 3, 4, 5, 6, 6, 6, 7, 8, 8, 9, 9, 9, 9, 10, 10};
     TextField textField;
     Button button = new Button("OK");
-    String string = "";
+    String s = "";
     int teller;
 
     public void init() {
@@ -27,7 +27,7 @@ public class H12Punt6 extends Applet {
     }
 
     public void paint(Graphics g) {
-        g.drawString("" + string, 75, 50);
+        g.drawString("" + s, 75, 50);
     }
 
     class buttonListener implements ActionListener {
@@ -39,9 +39,9 @@ public class H12Punt6 extends Applet {
                 }
             }
             if (teller > 0) {
-                string = "De waarde is " + teller + " keer gevonden.";
+                s = "De waarde is " + gezocht + " en is "+ teller + " keer gevonden.";
             } else {
-                string = "De waarde is niet gevonden.";
+                s = "De waarde is niet gevonden.";
             }
             teller = 0;
             textField.setText("");
