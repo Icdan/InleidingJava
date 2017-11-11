@@ -7,6 +7,7 @@ public class Opdracht2 extends Applet {
 
     public void paint(Graphics g) {
         setSize(500, 500);
+        
         int width = 30;
         int height = 15;
         int x1 = 0, x2 = -15;
