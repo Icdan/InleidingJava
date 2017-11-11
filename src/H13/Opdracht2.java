@@ -5,9 +5,11 @@ import java.applet.*;
 
 public class Opdracht2 extends Applet {
 
-    public void paint(Graphics g) {
+    public void init () {
         setSize(500, 500);
-        
+    }
+
+    public void paint(Graphics g) {
         int width = 30;
         int height = 15;
         int x1 = 0, x2 = -15;
@@ -36,12 +38,8 @@ public class Opdracht2 extends Applet {
                 g.fillRect(x2, y2, width, height);
                 x2 += 40;
             }
-            y2 += 40;
             x2 = -15;
+            y2 += 40;
         }
     }
 }
-
-
-
-
