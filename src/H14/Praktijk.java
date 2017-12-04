@@ -16,7 +16,7 @@ public class Praktijk extends Applet {
     int x, y, teller, getal, matchint, random;
 
     public void init() {
-        setSize(750, 500);
+        setSize(1000, 500);
 
         field = new TextField("", 10);
         field.addActionListener(new PlayListener());
@@ -25,18 +25,15 @@ public class Praktijk extends Applet {
         add(field);
 
         start = new Button("Start");
-        StartListener startButton = new StartListener();
-        start.addActionListener(startButton);
+        start.addActionListener(new StartListener());
         add(start);
 
         play = new Button("Play");
-        PlayListener playButton = new PlayListener();
-        play.addActionListener(playButton);
+        play.addActionListener(new PlayListener());
         add(play);
 
         reset = new Button("Reset");
-        ResetListener resetButton = new ResetListener();
-        reset.addActionListener(resetButton);
+        reset.addActionListener(new ResetListener());
         add(reset);
 
         path = Praktijk.class.getResource("/H14/img/");
@@ -127,7 +124,7 @@ public class Praktijk extends Applet {
                         matchint -= 2;
                     } else if (matchint == 20 || matchint == 16 || matchint == 12 || matchint == 8 || matchint == 4) {
                         matchint -= 3;
-                    } else if (matchint == 21 || matchint == 17 || matchint == 13 || matchint == 9 || matchint == 5 || matchint == 1) {
+                    } else if (matchint == 21 || matchint == 17 || matchint == 13 || matchint == 9 || matchint == 5) {
                         random = new Random().nextInt(3) + 1;
                         matchint -= random;
                     }
